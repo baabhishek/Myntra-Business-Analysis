@@ -10,23 +10,12 @@ There are 2 csv files that are shared here.
 A. Product Details
 B. Products Catalog
 
-A. Product Details
- ProductID – ID assigned to the product
- ProductName – Name of the Product
- ProductBrand – Brand Name of the Product
-
-B. Products Catalog
- Gender – gender to which specific products that have been designed
- Price (INR) – Price of the products
- NumImages – Number of images that have been clicked for specific product
- ID - ID assigned to the product
- Description – full details of the product
- PrimaryColor – Color of the product
-
 Skill Requirement:
 Statistical analysis 
 Dplyr
 ggplot2
+string
+cowplot
 
 
 
