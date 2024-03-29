@@ -3,9 +3,8 @@ This business analysis pertains to Myntra, a prominent Indian fashion e-commerce
 We will be using business analytics skills to identify the apparel type that customers favour and their prices. 
 To identify the parameter that attracts customers to make purchase.
 -------------------------------- -------------------------------- -------------------------------- --------------------------------
-Is it  number of images, or colours, or brand name or price?
 
-Problem Statement: The Myntra have shared the dataset with you to identify the attributes to increase sales. You are working as Lead consultant and your key role is to identify the parameters that are extremely important while making a decision.
+Problem Statement: Myntra has provided you with a dataset to identify attributes that can boost sales. As the Lead consultant, your main task is to pinpoint the crucial parameters for decision-making.
 
 Data Information:
 There are 2 csv files that are shared here.
