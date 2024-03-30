@@ -11,7 +11,7 @@ There are 2 csv files that are shared here.
 A. Product Details
 B. Products Catalog
 
-Skill Requirement:(R-Markdown)
+Skill :(R-Markdown)
 Statistical analysis ,Dplyr,ggplot2,string,cowplot
 
 
