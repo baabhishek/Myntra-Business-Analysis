@@ -1,6 +1,6 @@
 # Myntra-Business-Analysis
 This business analysis pertains to Myntra, a prominent Indian fashion e-commerce company headquartered in Bengaluru, Karnataka, India.
-We will be using business analytics skills to identify the apparel type that customers favour and their prices. 
+I will be using business analytics skills to identify the apparel type that customers favour and their prices. 
 To identify the parameter that attracts customers to make purchase.
 -------------------------------- -------------------------------- -------------------------------- --------------------------------
 
