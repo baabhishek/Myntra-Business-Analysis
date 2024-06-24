@@ -1,4 +1,6 @@
 # Myntra-Business-Analysis
+![1697632462318](https://github.com/baabhishek/Myntra-Business-Analysis/assets/165395155/30711c84-213e-420d-a60d-88f928ce598e)
+
 This business analysis pertains to Myntra, a prominent Indian fashion e-commerce company headquartered in Bengaluru, Karnataka, India.
 I will be using business analytics skills to identify the apparel type that customers favour and their prices. 
 To identify the parameter that attracts customers to make purchase.
