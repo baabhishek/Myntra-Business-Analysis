@@ -14,7 +14,7 @@ A. Product Details
 B. Products Catalog  
 
 Skill :(R-Markdown)
-Statistical analysis ,Dplyr,ggplot2,string,cowplot  
+Statistical analysis ,Dplyr, ggplot2, string, cowplot  
 -------------------------------- -------------------------------- -------------------------------- -------------------------------
 
 
